@@ -6,9 +6,7 @@ Instagram is an photo and video sharing social networking service founded in 201
 
 
 <p align="left"> <img src="https://cdn.wccftech.com/wp-content/uploads/2020/04/Instagram-Not-Following.png" height="350px" /> </p>
-<p align="left"> <img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.slideshare.net%2Fparvathisanil%2Fseminar-on-detecting-fake-accounts-in-social-media-using-machine-learning&psig=AOvVaw2-1NCVJzwo-s138Fn_n9va&ust=1701071174269000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCxuoqW4YIDFQAAAAAdAAAAABAJ="350px" /> </p>
-
-
+ 
 ### Problem Statement and Business Case:-
 There are millions upon millions of Insta users out there, but organically engaging and attracting followers to your profile takes time. Time that a lot of businesses and entrepreneurs don’t have. Luckily, you can now gain hundreds to thousands of followers instantly - by purchasing them. 
 
@@ -31,5 +29,19 @@ Stacking up your number of Instagram followers can instantly build your brand cr
 - Using Confusion Matrix: "Compares true value with predicted value"
 - Acheived Accuracy of 0.96 (96%) xand used different classification report.
 
-#### **Show 💗 by ⭐ My Repository**
+### system requirements : -
+	Coding Language		:   Python 3.7.
+	IDE				        :   Vs-code
+	Designing			    :   Jupiter Notebook.
+	Data Base			    :   Social Network Users Dataset’s
+
+### Hardware requirements
+	System	            :    Pentium IV 2.4 GHz.
+	Hard Disk	          :    40 GB.
+	Floppy Drive        :    1.44 Mb.
+	Monitor	            :    14’ Colour Monitor.
+	Mouse	 	            :    Optical Mouse.
+	Ram		               :   4gb.
+
+
 
