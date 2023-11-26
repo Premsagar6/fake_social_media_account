@@ -6,6 +6,7 @@ Instagram is an photo and video sharing social networking service founded in 201
 
 
 <p align="left"> <img src="https://cdn.wccftech.com/wp-content/uploads/2020/04/Instagram-Not-Following.png" height="350px" /> </p>
+<p align="left"> <img src="https://www.slideshare.net/parvathisanil/seminar-on-detecting-fake-accounts-in-social-media-using-machine-learning="350px" /> </p>
 
 
 ### Problem Statement and Business Case:-
