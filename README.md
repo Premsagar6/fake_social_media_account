@@ -6,7 +6,7 @@ Instagram is an photo and video sharing social networking service founded in 201
 
 
 <p align="left"> <img src="https://cdn.wccftech.com/wp-content/uploads/2020/04/Instagram-Not-Following.png" height="350px" /> </p>
-<p align="left"> <img src="https://www.slideshare.net/parvathisanil/seminar-on-detecting-fake-accounts-in-social-media-using-machine-learning="350px" /> </p>
+<p align="left"> <img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.slideshare.net%2Fparvathisanil%2Fseminar-on-detecting-fake-accounts-in-social-media-using-machine-learning&psig=AOvVaw2-1NCVJzwo-s138Fn_n9va&ust=1701071174269000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCxuoqW4YIDFQAAAAAdAAAAABAJ="350px" /> </p>
 
 
 ### Problem Statement and Business Case:-
@@ -15,7 +15,7 @@ There are millions upon millions of Insta users out there, but organically engag
 Stacking up your number of Instagram followers can instantly build your brand credit and get you noticed quick while building relationships and growing your Instagram account. There is also the fact that followers bring more followers! Some businesses benefit by purchasing a small amount of followers, resulting in a quick boost of social media presence.
 
 ### Pre-Requisites / Technologies Used:-
-- Python Programming Language (Intermediate), Statistics, Probability and ANN (Artificial Neural Networks)
+- Python Programming Language (Intermediate), machine learning
 - Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn and tensorflow
 
 ### Step_1: Dataset Cleaning and Data Exploration:-
